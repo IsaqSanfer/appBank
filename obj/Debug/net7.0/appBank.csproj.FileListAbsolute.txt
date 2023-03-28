@@ -1,0 +1,15 @@
+C:\Users\isael\source\repos\appBank\bin\Debug\net7.0\appBank.exe
+C:\Users\isael\source\repos\appBank\bin\Debug\net7.0\appBank.deps.json
+C:\Users\isael\source\repos\appBank\bin\Debug\net7.0\appBank.runtimeconfig.json
+C:\Users\isael\source\repos\appBank\bin\Debug\net7.0\appBank.dll
+C:\Users\isael\source\repos\appBank\bin\Debug\net7.0\appBank.pdb
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.csproj.AssemblyReference.cache
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.AssemblyInfoInputs.cache
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.AssemblyInfo.cs
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.csproj.CoreCompileInputs.cache
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.dll
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\refint\appBank.dll
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.pdb
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\appBank.genruntimeconfig.cache
+C:\Users\isael\source\repos\appBank\obj\Debug\net7.0\ref\appBank.dll
